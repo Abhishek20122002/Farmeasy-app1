@@ -1,0 +1,9 @@
+.notfound-container {
+  text-align: center;
+  padding: 4rem 1rem;
+}
+
+.notfound-container h1 {
+  font-size: 3rem;
+  color: #c53030;
+}
